@@ -1,0 +1,14 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+
+\title{爬虫总结}
+\author{王思娴}
+\date{today}
+\begin{document}
+\
+\end{document}
